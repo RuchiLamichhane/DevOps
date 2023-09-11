@@ -20,7 +20,7 @@ This will **not cover all things** "DevOps" but it will cover the areas that I f
 
 
 ### Week 1: Introduction to DevOps and Version Control (Git)
-- [✔️] ♾️ Day 1 > [Understand DevOps principles and culture](Days/day02.md)
+- [✔️] ♾️ Day 1 > [Understand DevOps principles and culture](DevOps/IntroductiontoDevOps.md)
 - [✔️] ♾️ Day 2 > [Learn about tools used in DevOps.](Days/day02.md)
 - [✔️] ♾️ Day 3 >[Learn about Version Control,Git Fundamentals and commands.](Days/day02.md)
 - [✔️] ♾️ Day 4 > [Learn about Collaborative Workflows, pull requests branching and merging strategies](Days/day02.md)
